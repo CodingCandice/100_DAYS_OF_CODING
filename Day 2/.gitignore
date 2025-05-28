@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.env
+.env.*
+
+# Logs & Jupyter
+*.log
+.ipynb_checkpoints/
+
+# Git
+*.swp
+# Course scaffolding cleanup
+lesson-info.yaml
+lesson-remote-info.yaml
+course-info.yaml
+course-remote-info.yaml
