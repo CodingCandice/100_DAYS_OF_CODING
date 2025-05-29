@@ -19,7 +19,7 @@ After a successful career in content, SEO, and copywriting, I’m transitioning 
 - Push daily commits and practice writing clean, readable code
 
 ## 📅 Current Day
-**Day 2 ✅** — still early, but I’m locked in and moving forward!
+**Day 3 ✅** — still early, but I’m locked in and moving forward!
 
 ## 📬 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/candicemathison)
